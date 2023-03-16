@@ -14,11 +14,3 @@ By providing smallholder farmers with access to these critical resources, we aim
 
 ## New to Compose?
 Check [Compose for Android Developers](https://foso.github.io/Jetpack-Compose-Playground/compose_for/android_devs/) or [Hello World Compose](https://foso.github.io/Jetpack-Compose-Playground/general/helloworld/)
-
-### Foundation
-* [Canvas](https://foso.github.io/Jetpack-Compose-Playground/foundation/canvas)
-* [Image](https://foso.github.io/Jetpack-Compose-Playground/foundation/image)
-* [LazyColumn](https://foso.github.io/Jetpack-Compose-Playground/foundation/lazycolumn)
-* [LazyRow](https://foso.github.io/Jetpack-Compose-Playground/foundation/lazyrow)
-* [Shape](https://foso.github.io/Jetpack-Compose-Playground/foundation/shape)
-* [Text](https://foso.github.io/Jetpack-Compose-Playground/foundation/text)
