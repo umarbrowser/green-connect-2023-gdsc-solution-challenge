@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Green Connect</string>
+    <string name="home_1">Market Place</string>
+    <string name="home_2">Training</string>
+    <string name="home_3">Forum</string>
+    <string name="home_4">Loans</string>
+    <string name="home_5">Keep Notes</string>
+    <string name="home_6">Weather</string>
+    <string name="category_1">Irrigation Efficiency: more food with less water</string>
+    <string name="category_1_desc">Learn to improve the efficiency of different irrigation system components over varying scales in order to extract less water from our resources while producing more food.</string>
+    <string name="category_2">How to Manage a Poultry Farming Business</string>
+    <string name="category_2_desc">Are you looking to set up your own poultry farming business? This agriculture course explains how poultry farming works and provides all the information and skills you need to get your business up and running. We take you through each step, from setting up the appropriate housing conditions for chickens to ensuring that the best possible eggs are produced.</string>
+    <string name="category_3">Growing Organic Food Sustainably</string>
+    <string name="category_3_desc">This free online course on organic food gardening demonstrates the steps and strategies of growing organic foods. You will learn about the various considerations you need to take into account when growing various types of organic vegetables. By the end of this free online course you will be able to understand the best seasons for planting certain crops and how to sow and grow them accordingly.</string>
+   <string name="category_4">Challenges of Agribusiness Management</string>
+    <string name="category_4_desc">The goal of this course is to understand the challenges and opportunities of agribusiness nowadays. From farms to retailers, from input providers to traders, all the diverse players of this value chain interact a complex business environment in which nature, policy, technology and management strategies have to be considered to overcome future challenges and seize upcoming opportunities. </string>
+    <string name="category_5">Climate Change and Resilience in Food Systems</string>
+    <string name="category_5_desc">Even small climate changes can have large-scale consequences in agriculture and food systems with devastating effects for the people and their economies. On this course, you will learn strategies designed to mitigate the impact of climate change, develop resilient food systems and create sustainable development in local communities.</string>
+    <string name="category_6"></string>
+    <string name="category_6_desc"></string>
+    <string name="category_7"></string>
+    <string name="category_7_desc"></string>
+    <string name="category_8"></string>
+    <string name="category_8_desc"></string>
+    <string name="category_9"></string>
+    <string name="category_9_desc"></string>
+    <string name="category_10"></string>
+    <string name="category_10_desc"></string>
+    <string name="loan_1">AGSMEIS Loan</string>
+    <string name="loan_1_desc">The Agri-Business/Small and Medium Enterprise Investment Scheme is an initiative to support the Federal Government\'s efforts and policy measures for the promotion of agricultural businesses and small/medium enterprises (SMEs) as vehicles for sustainable economic development and employment generation</string>
+    <string name="loan_2">Bank of Agriculture Loan</string>
+    <string name="loan_2_desc">The Bank is wholly owned by the Federal Government of Nigeria through the Federal Ministry of Finance Incorporated (MOFI) and Central Bank of Nigeria (CBN) in the ratio of 60%: 40% respectively
+Bank of Agriculture (BOA) Limited was incorporated as Nigerian Agricultural Bank (NAB) in 1972 and became operational in 1973 to carry out the functions of a Development Finance Institution for the Agriculture and Rural Development sector.</string>
+    <string name="loan_3">Central Bank of Nigeria Agricultural Credit</string>
+    <string name="loan_3_desc">The ACGSF was established by Decree No. 20 of 1977, and started operations in April, 1978. Its original share capital and paid-up capital were N100 million and N85.6 million, respectively. \nThe Federal Government holds 60% and the Central Bank of Nigeria, 40% of the shares. The capital base of the Scheme was increased to N3 billion in March, 2001. The Fund guarantees credit facilities extended to farmers by banks up to 75% of the amount in default net of any security realized. \nThe Fund is managed by the Central Bank of Nigeria, which handles the day-to-day operations of the Scheme. The Guidelines stipulate the eligible enterprises for which guarantees could be issued under the Scheme.\nBetween 1978 and 1989 when the government stipulated lending quotas for banks under the Scheme, there was consistent increase in the lending portfolios of banks to agriculture, but after the deregulation of the financial system, banks started shying away by reducing their loans to the sector due to the perceived risk.</string>
+    <string name="loan_4">First Bank: Commercial Agriculture Credit Scheme</string>
+    <string name="loan_4_desc">The Scheme is a special credit intervention fund created by the Federal Government of Nigeria to fast track the development of the agricultural sector economy by providing credit facilities to commercial agricultural enterprises at a single digit interest rate.</string>
+   <string name="loan_5"></string>
+    <string name="loan_5_desc"></string>
+    <string name="loan_6"></string>
+    <string name="loan_6_desc"></string>
+    <string name="loan_7"></string>
+    <string name="loan_7_desc"></string>
+    <string name="loan_8"></string>
+    <string name="loan_8_desc"></string>
+    <string name="loan_9"></string>
+    <string name="loan_9_desc"></string>
+    <string name="loan_10"></string>
+    <string name="loan_10_desc"></string>
+<string name="forum_page">Connecting You to the World of Agriculture</string>
+    <string name="forum_page_desc">AgFuse is a free platform for farmers and agricultural professionals to connect, share information, and form valuable associations.</string>
+    <string name="home_1_link">market_place_screen</string>
+    <string name="home_2_link">training_screen</string>
+    <string name="home_3_link">forum_screen</string>
+    <string name="home_4_link">loans_screen</string>
+    <string name="home_5_link">analytics_screen</string>
+    <string name="home_6_link">offline_mode_screen</string>
+    <string name="product_1">Banana Full Branch - 250gm, Organic</string>
+    <string name="product_1_price">340</string>
+    <string name="title_activity_notes_details">NotesDetailsActivity</string>
+    <string name="title_activity_update_note">UpdateNote</string>
+    <string name="title_activity_seller">SellerActivity</string>
+
+
+</resources>
