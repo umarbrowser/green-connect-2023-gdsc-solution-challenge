@@ -18,6 +18,14 @@ By providing smallholder farmers with access to these critical resources, we aim
 | ------------- | ------------- | ------------- |
 | ![login](screenshot/1.jpg)  | ![home page](screenshot/2.jpg)  | ![market place](screenshot/3.jpg)  |
 
+| Sell a Product  | Training | Forum |
+| ------------- | ------------- | ------------- |
+| ![sell a product](screenshot/4.jpg)  | ![training](screenshot/5.jpg)  | ![forum](screenshot/6.jpg)  |
+
+| Loans  | Keep Notes | Weather |
+| ------------- | ------------- | ------------- |
+| ![loans](screenshot/7.jpg)  | ![notes](screenshot/8.jpg)  | ![weather](screenshot/9.jpg)  |
+
 
 ## New to Compose?
 Check [Compose for Android Developers](https://foso.github.io/Jetpack-Compose-Playground/compose_for/android_devs/) or [Hello World Compose](https://foso.github.io/Jetpack-Compose-Playground/general/helloworld/)
