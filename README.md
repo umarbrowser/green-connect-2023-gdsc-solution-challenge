@@ -1,5 +1,7 @@
 <h1 align="center"> Green Connect 2023 Google Developer Student Club (Gombe State University, Nigeria), Solution Challenge</h1>
-[sdgs](http://www.un.org/development/desa/disabilities/wp-content/uploads/sites/15/2015/10/SDG-Poster.png)
+
+![sdgs](http://www.un.org/development/desa/disabilities/wp-content/uploads/sites/15/2015/10/SDG-Poster.png)
+
 ## Introduction 🙋‍♂️
 The challenge we are addressing is the limited access to markets, training, and financing faced by smallholder farmers in developing countries, like Nigeria. Smallholder farmers are typically operating on a small scale, with limited resources and access to information, which often makes it difficult for them to increase their productivity and income.
 
