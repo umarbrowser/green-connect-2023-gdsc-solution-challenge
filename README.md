@@ -1,5 +1,5 @@
 <h1 align="center"> Green Connect 2023 Google Developer Student Club (Gombe State University, Nigeria), Solution Challenge</h1>
-<img align="center" src="https://your-image-url.type](http://www.un.org/development/desa/disabilities/wp-content/uploads/sites/15/2015/10/SDG-Poster.png" width="300">
+<img align="center" src="http://www.un.org/development/desa/disabilities/wp-content/uploads/sites/15/2015/10/SDG-Poster.png" width="300">
 
 
 ## Introduction 🙋‍♂️
