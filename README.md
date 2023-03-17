@@ -12,7 +12,7 @@ To address these challenges, we propose the development of Green Connect which i
 
 By providing smallholder farmers with access to these critical resources, we aim to increase their agricultural productivity and income, improving their standard of living and helping to drive economic growth in their communities.
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-green.svg)]() [![Compose](https://img.shields.io/badge/Compose-1.3.3-green.svg)]()[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-green.svg)]() [![Compose](https://img.shields.io/badge/Compose-1.3.3-green.svg)]() [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 
 ## The app Includes the Following:
 1. A user ogin system that allows farmers to with their Google Account and securely access the app.
