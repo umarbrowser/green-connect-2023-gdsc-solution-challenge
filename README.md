@@ -1,5 +1,5 @@
 <h1 align="center"> Green Connect 2023 Google Developer Student Club (Gombe State University, Nigeria), Solution Challenge</h1>
-
+[sdgs](http://www.un.org/development/desa/disabilities/wp-content/uploads/sites/15/2015/10/SDG-Poster.png)
 ## Introduction 🙋‍♂️
 The challenge we are addressing is the limited access to markets, training, and financing faced by smallholder farmers in developing countries, like Nigeria. Smallholder farmers are typically operating on a small scale, with limited resources and access to information, which often makes it difficult for them to increase their productivity and income.
 
@@ -10,7 +10,7 @@ To address these challenges, we propose the development of Green Connect which i
 
 By providing smallholder farmers with access to these critical resources, we aim to increase their agricultural productivity and income, improving their standard of living and helping to drive economic growth in their communities.
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-green.svg)]() [![Compose](https://img.shields.io/badge/Compose-1.3.3-green.svg)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-green.svg)]() [![Compose](https://img.shields.io/badge/Compose-1.3.3-green.svg)]()[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 
 ## The app Includes the Following:
 1. A user ogin system that allows farmers to with their Google Account and securely access the app.
