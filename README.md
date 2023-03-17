@@ -14,9 +14,9 @@ By providing smallholder farmers with access to these critical resources, we aim
 
 ## Application Screenshots
 
-| Login with Google  | Home Page |
-| ------------- | ------------- |
-| ![login](screenshot/1.jpg)  | ![home page](screenshot/2.jpg)  |
+| Login with Google  | Home Page | Market Place |
+| ------------- | ------------- | ------------- |
+| ![login](screenshot/1.jpg)  | ![home page](screenshot/2.jpg)  | ![market place](screenshot/3.jpg)  |
 
 
 ## New to Compose?
