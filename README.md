@@ -12,6 +12,21 @@ By providing smallholder farmers with access to these critical resources, we aim
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-green.svg)]() [![Compose](https://img.shields.io/badge/Compose-1.3.3-green.svg)]()
 
+## The app Includes the Following:
+1. A user ogin system that allows farmers to with their Google Account and securely access the app.
+
+2. A marketplace feature that connects farmers with buyers such as processors and traders, to sell their products.
+
+3. A forum feature that allows farmers to connect with other farmers and experts in the field for support and advice.
+
+4. A training module that provides educational resources and videos on best practices for farming, including information on crop management, soil health, and market trends.
+
+4. A Loan module that allows farmers to apply for and receive loans for investments in their farms.
+
+5. A keep note feature that provides farmers with insights on their farming operations, such as crop yields and costs, to help them make more informed decisions.
+
+6. A weather feature that provide farmers with up-to-date information on the amount and intensity of rainfall in their area, helping them to make informed decisions about when to plant, irrigate, or harvest their crops.
+
 ## Application Screenshots
 
 | Login with Google  | Home Page | Market Place |
