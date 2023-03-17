@@ -12,5 +12,12 @@ By providing smallholder farmers with access to these critical resources, we aim
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-green.svg)]() [![Compose](https://img.shields.io/badge/Compose-1.3.3-green.svg)]()
 
+## Application Screenshots
+
+| Login with Google  | Home Page |
+| ------------- | ------------- |
+| ![login](screenshot/1.jpg)  | ![home page](screenshot/2.jpg)  |
+
+
 ## New to Compose?
 Check [Compose for Android Developers](https://foso.github.io/Jetpack-Compose-Playground/compose_for/android_devs/) or [Hello World Compose](https://foso.github.io/Jetpack-Compose-Playground/general/helloworld/)
