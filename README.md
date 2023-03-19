@@ -3,31 +3,31 @@
 
 
 ## Introduction 🙋‍♂️
-The challenge we are addressing is the limited access to markets, training, and financing faced by smallholder farmers in developing countries, like Nigeria. Smallholder farmers are typically operating on a small scale, with limited resources and access to information, which often makes it difficult for them to increase their productivity and income.
+* The challenge we are addressing is the limited access to markets, training, and financing faced by smallholder farmers in developing countries, like Nigeria. Smallholder farmers are typically operating on a small scale, with limited resources and access to information, which often makes it difficult for them to increase their productivity and income.
 
 
-Smallholder farmers often lack access to financing, making it difficult for them to invest in their farms and improve their production. This lack of financing can lead to a cycle of low productivity and low income, further exacerbating the challenges faced by smallholder farmers.
+* Smallholder farmers often lack access to financing, making it difficult for them to invest in their farms and improve their production. This lack of financing can lead to a cycle of low productivity and low income, further exacerbating the challenges faced by smallholder farmers.
 
-To address these challenges, we propose the development of Green Connect which is a mobile app that provides smallholder farmers with access to markets, training, and financing. The Green Connect will allow farmers to connect with potential buyers for their produce, access training on best practices for agricultural production, and apply for loans or grants to help them invest in their farms.
+* To address these challenges, we propose the development of Green Connect which is a mobile app that provides smallholder farmers with access to markets, training, and financing. The Green Connect will allow farmers to connect with potential buyers for their produce, access training on best practices for agricultural production, and apply for loans or grants to help them invest in their farms.
 
-By providing smallholder farmers with access to these critical resources, we aim to increase their agricultural productivity and income, improving their standard of living and helping to drive economic growth in their communities.
+* By providing smallholder farmers with access to these critical resources, we aim to increase their agricultural productivity and income, improving their standard of living and helping to drive economic growth in their communities.
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-green.svg)]() [![Compose](https://img.shields.io/badge/Compose-1.3.3-green.svg)]() [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 
 ## The app Includes the Following:
-1. A user ogin system that allows farmers to with their Google Account and securely access the app.
+* **User Login System** that allows farmers to with their Google Account and securely access the app.
 
-2. A marketplace feature that connects farmers with buyers such as processors and traders, to sell their products.
+* **Marketplace** feature that connects farmers with buyers such as processors and traders, to sell their products.
 
-3. A forum feature that allows farmers to connect with other farmers and experts in the field for support and advice.
+* **Forum** feature that allows farmers to connect with other farmers and experts in the field for support and advice.
 
-4. A training module that provides educational resources and videos on best practices for farming, including information on crop management, soil health, and market trends.
+* **Training** module that provides educational resources and videos on best practices for farming, including information on crop management, soil health, and market trends.
 
-4. A Loan module that allows farmers to apply for and receive loans for investments in their farms.
+* **Loan** module that allows farmers to apply for and receive loans for investments in their farms.
 
-5. A keep note feature that provides farmers with insights on their farming operations, such as crop yields and costs, to help them make more informed decisions.
+* **keep Note** feature that provides farmers with insights on their farming operations, such as crop yields and costs, to help them make more informed decisions.
 
-6. A weather feature that provide farmers with up-to-date information on the amount and intensity of rainfall in their area, helping them to make informed decisions about when to plant, irrigate, or harvest their crops.
+* **Weather** feature that provide farmers with up-to-date information on the amount and intensity of rainfall in their area, helping them to make informed decisions about when to plant, irrigate, or harvest their crops.
 
 ## Application Screenshots
 
