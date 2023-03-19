@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066641483826",
+    "project_id": "greenconnect-2dc2e",
+    "storage_bucket": "greenconnect-2dc2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066641483826:android:68087ac4a8832e2651f42b",
+        "android_client_info": {
+          "package_name": "com.example.greenconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066641483826-3tgsp19qiiath412feafobguc554d17r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCvVgnxSm7E4cIDaNDQVj2ptnLMSVpKbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066641483826-3tgsp19qiiath412feafobguc554d17r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
