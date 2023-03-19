@@ -50,7 +50,7 @@
 7. Add API key to local.properties.
 ```
 # local.properties
-GOOGLE_MAPS_API_KEY=AIzaSyA4OlSaUpXfhwbw6pOxT1oDqdfAnP_Cafc
+GOOGLE_MAPS_API_KEY=<Your Map API Key>
 ```
 
 8. Sync your Gradle files to download the necessary dependencies.
