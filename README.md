@@ -29,20 +29,6 @@
 
 * **Weather** feature that provide farmers with up-to-date information on the amount and intensity of rainfall in their area, helping them to make informed decisions about when to plant, irrigate, or harvest their crops.
 
-## Application Screenshots
-
-| Login with Google  | Home Page | Market Place |
-| ------------- | ------------- | ------------- |
-| ![login](screenshot/1.jpg)  | ![home page](screenshot/2.jpg)  | ![market place](screenshot/3.jpg)  |
-
-| Sell a Product  | Training | Forum |
-| ------------- | ------------- | ------------- |
-| ![sell a product](screenshot/4.jpg)  | ![training](screenshot/5.jpg)  | ![forum](screenshot/6.jpg)  |
-
-| Loans  | Keep Notes | Weather |
-| ------------- | ------------- | ------------- |
-| ![loans](screenshot/7.jpg)  | ![notes](screenshot/8.jpg)  | ![weather](screenshot/9.jpg)  |
-
 ## How to build from Source
 
 1. Copy this ```https://github.com/umarbrowser/green-connect-2023-gdsc-solution-challenge.git``` for follow the picture below.
@@ -70,5 +56,20 @@ GOOGLE_MAPS_API_KEY=AIzaSyA4OlSaUpXfhwbw6pOxT1oDqdfAnP_Cafc
 8. Sync your Gradle files to download the necessary dependencies.
 
 9. You should now be able to run the Green Connect by clicking on the "Run" button in Android Studio. If you encounter any issues, make sure that you have the latest version of Android Studio and that your Android SDK is up-to-date. 
+
+## Application Screenshots
+
+| Login with Google  | Home Page | Market Place |
+| ------------- | ------------- | ------------- |
+| ![login](screenshot/1.jpg)  | ![home page](screenshot/2.jpg)  | ![market place](screenshot/3.jpg)  |
+
+| Sell a Product  | Training | Forum |
+| ------------- | ------------- | ------------- |
+| ![sell a product](screenshot/4.jpg)  | ![training](screenshot/5.jpg)  | ![forum](screenshot/6.jpg)  |
+
+| Loans  | Keep Notes | Weather |
+| ------------- | ------------- | ------------- |
+| ![loans](screenshot/7.jpg)  | ![notes](screenshot/8.jpg)  | ![weather](screenshot/9.jpg)  |
+
 ## New to Compose?
 Check [Compose for Android Developers](https://foso.github.io/Jetpack-Compose-Playground/compose_for/android_devs/) or [Hello World Compose](https://foso.github.io/Jetpack-Compose-Playground/general/helloworld/)
