@@ -3,11 +3,36 @@
 
 
 ## Introduction 🙋‍♂️
-* The challenge we are addressing is the limited access to markets, training, and financing faced by smallholder farmers in developing countries, like Nigeria. Smallholder farmers are typically operating on a small scale, with limited resources and access to information, which often makes it difficult for them to increase their productivity and income.
+> Green Connect is a mobile app that helps smallholder farmers in developing countries access markets, training, and financing to increase their agricultural productivity and income can be linked to several United Nations Sustainable Development Goals (SDGs).
 
-* Smallholder farmers often lack access to financing, making it difficult for them to invest in their farms and improve their production. This lack of financing can lead to a cycle of low productivity and low income, further exacerbating the challenges faced by smallholder farmers.
+* **Goal 1: No Poverty** - Green Connect addresses poverty reduction by providing smallholder farmers with access to markets, training, and financing to increase their agricultural productivity and income thereby alleviating poverty.
 
-* By providing smallholder farmers with access to these critical resources, we aim to increase their agricultural productivity and income, improving their standard of living and helping to drive economic growth in their communities.
+* **Goal 2: Zero Hunger** - Green Connect also supports the Zero Hunger initiative by increasing smallholder farmers' access to markets, training, and financing, which can help them produce more food to feed themselves and their communities.
+
+* **Goal 5: Gender Equality** - Women make up a significant portion of smallholder farmers in developing countries, and this project can help increase their productivity and income, thus improving their economic status and promoting gender equality.
+
+* **Goal 8: Decent Work and Economic Growth** - Green Connect can create employment opportunities for farmers and other stakeholders in the agriculture value chain.
+
+* **Goal 9: Industry, Innovation and Infrastructure** - Green Connect is an innovative solution that provides a platform for smallholder farmers to connect with buyers, access training on best practices, and apply for loans or grants to help them invest in their farms.
+
+* **Goal 17: Partnerships for the Goals** - Green Connect can foster partnerships between various stakeholders in the agriculture value chain, including smallholder farmers, buyers, financial institutions, and governments, to achieve the SDGs related to poverty reduction, hunger, and economic growth.
+
+> The specific targets that we are aiming to achieve through our solution are:
+
+* **Target 1.1:** By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day.
+
+* **Target 2.3:** By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists, and fishers, including through secure and equal access to land, other productive resources, and inputs, knowledge, financial services, markets, and opportunities for value addition and non-farm employment.
+
+* **Target 8.3:** Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity, and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services.
+
+* **Target 9.3:** Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets.
+
+* **Target 10.2:** By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status.
+
+* **Target 12.3:** By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses.
+
+> We chose these specific SDGs and targets because our solution directly addresses the challenges faced by smallholder farmers in developing countries, who often live in poverty, lack access to food, and have limited economic opportunities. By providing these farmers with a platform to access markets, training, and financing, we can help them increase their agricultural productivity and income, improving their livelihoods and contributing to the achievement of the SDGs. Additionally, our solution aligns with the UN's call to promote inclusive and sustainable economic growth, as we are focused on empowering small-scale food producers and supporting entrepreneurship in developing countries.
+
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-green.svg)]() [![Compose](https://img.shields.io/badge/Compose-1.3.3-green.svg)]() [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 
