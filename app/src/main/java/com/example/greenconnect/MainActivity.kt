@@ -1074,7 +1074,7 @@ fun ProductUI(context: Context, product_list: SnapshotStateList<Products?>) {
                                     }
 
                                     Card(elevation = 4.dp, modifier = Modifier
-                                        .height(500.dp)
+                                        .height(300.dp)
                                         .padding(15.dp), shape = RoundedCornerShape(20.dp)){
                                         product_list[index]?.sellerLatitude?.let {
                                             lat = it
