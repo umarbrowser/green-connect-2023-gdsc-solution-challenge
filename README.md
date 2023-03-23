@@ -29,6 +29,16 @@
 
 * **Weather** feature that provide farmers with up-to-date information on the amount and intensity of rainfall in their area, helping them to make informed decisions about when to plant, irrigate, or harvest their crops.
 
+## Download and Install APK File
+> [![Download](https://img.shields.io/badge/Green%20Connect-v1.0.0-brightgreen?style=for-the-badge)](https://github.com/umarbrowser/green-connect-2023-gdsc-solution-challenge/raw/master/build/green-connect.apk)
+* Download the above File to your Android Device
+* Initiate the installation either through the download notification or a file browser.
+* You’ll receive a warning at the bottom of the phone letting you know that you need to give that app permission to install the file.
+* Tap the Settings button to proceed.
+* On the next page, find the app from the previous step and toggle it on.
+* A prompt should pop up, giving you the option to install the app. Go ahead and follow the instructions to install.
+* **Note** — Sometimes, you may need to initiate installation again. For example, if you tap the notification and use your browser to do it, you sometimes need to tap the notification again to get the install prompt after giving the app permission.
+
 ## How to build from Source
 
 1. Copy this ```https://github.com/umarbrowser/green-connect-2023-gdsc-solution-challenge.git``` for follow the picture below.
