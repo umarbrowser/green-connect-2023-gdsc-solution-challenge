@@ -1,5 +1,5 @@
 <h1 align="center"> Green Connect 2023 Google Developer Student Club (Gombe State University, Nigeria), Solution Challenge</h1>
-<img align="center" src="https://github.com/umarbrowser/green-connect-2023-gdsc-solution-challenge/blob/master/screenshot/sdgs-pr.png?raw=true" width="100%">
+<img align="center" src="https://github.com/umarbrowser/green-connect-2023-gdsc-solution-challenge/blob/master/screenshot/sdgs.png?raw=true" width="100%">
 
 
 ## Introduction 🙋‍♂️
@@ -12,10 +12,6 @@
 * **Goal 5: Gender Equality** - Women make up a significant portion of smallholder farmers in developing countries, and this project can help increase their productivity and income, thus improving their economic status and promoting gender equality.
 
 * **Goal 8: Decent Work and Economic Growth** - Green Connect can create employment opportunities for farmers and other stakeholders in the agriculture value chain.
-
-* **Goal 9: Industry, Innovation and Infrastructure** - Green Connect is an innovative solution that provides a platform for smallholder farmers to connect with buyers, access training on best practices, and apply for loans or grants to help them invest in their farms.
-
-* **Goal 17: Partnerships for the Goals** - Green Connect can foster partnerships between various stakeholders in the agriculture value chain, including smallholder farmers, buyers, financial institutions, and governments, to achieve the SDGs related to poverty reduction, hunger, and economic growth.
 
 > The specific targets that we are aiming to achieve through our solution are:
 
