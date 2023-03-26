@@ -43,7 +43,7 @@
 
 * **Loan** module that allows farmers to apply for and receive loans for investments in their farms.
 
-* **keep Note** feature that provides farmers with insights on their farming operations, such as crop yields and costs, to help them make more informed decisions.
+* **Note Keeping** feature that provides farmers with insights on their farming operations, such as crop yields and costs, to help them make more informed decisions.
 
 * **Weather** feature that provide farmers with up-to-date information on the amount and intensity of rainfall in their area, helping them to make informed decisions about when to plant, irrigate, or harvest their crops.
 
