@@ -78,6 +78,7 @@
 7. Add API key to local.properties.
 ```
 # local.properties
+# generate a Google Map Android API Key from Google Cloud and write it below
 GOOGLE_MAPS_API_KEY=<Your Map API Key>
 ```
 
